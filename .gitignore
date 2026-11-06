@@ -9,6 +9,10 @@ dist/
 web-build/
 expo-env.d.ts
 .claude/
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
 
 # Native
 .kotlin/
