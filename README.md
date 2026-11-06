@@ -59,27 +59,23 @@ Cada uma das 15.504 combinações geradas precisa atender aos 4 critérios abaix
 
 ---
 
-## Registros Visuais da Aplicação
+## Registros Visuais da Aplicação (Interface Mobile)
 
-### Volante Interativo de Seleção
-Interface responsiva com marcação de dezenas, identificação visual de moldura/primos e atalhos de preenchimento aleatório.
-![Volante de Seleção](docs/screenshots/01-volante-selecao.png)
+A interface móvel simula a experiência em dispositivo smartphone (formato 393 × 852 px), com volante interativo de 25 dezenas, cálculo probabilístico em tempo real e exportação modular:
 
-### Volante Preenchido e Resumo de Filtragem
-Apresentação do volante completo com 20 dezenas e acionamento do cálculo probabilístico.
-![Volante Preenchido](docs/screenshots/02-volante-preenchido.png)
+### Seleção no Volante, Estatísticas e Bilhetes Gerados
 
-### Cartões de Apostas e Métricas Individuais
-Exibição das combinações aprovadas com métricas completas por bilhete (soma, contagem de ímpares, moldura e primos) e opção de cópia individual.
-![Apostas Geradas](docs/screenshots/03-apostas-geradas.png)
+| 01. Volante de Seleção | 02. Aproveitamento Matemático | 03. Cartão e Métricas Analíticas |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/01-mobile-volante.png" width="260" alt="Volante de Dezenas" /> | <img src="docs/screenshots/02-mobile-jogos-gerados.png" width="260" alt="Aproveitamento Matemático" /> | <img src="docs/screenshots/03-mobile-card-detalhes.png" width="260" alt="Cartão da Aposta" /> |
+| Marcação das 20 dezenas, legendas de moldura e números primos | Resumo estatístico das 15.504 combinações e taxa de aprovação | Bilhete com 15 dezenas, tabela de métricas (Soma, Ímpares, Moldura, Primos) e FAB |
 
-### Modal Informativo dos Critérios Matemáticos
-Documentação embutida na interface detalhando a fundamentação estatística de cada filtro.
-![Como Funciona](docs/screenshots/04-modal-como-funciona.png)
+### Modais Informativo e de Exportação
 
-### Modal de Exportação e Formatação de Dados
-Exportador dedicado com suporte a arquivos de texto (.txt), planilhas (.csv) e transferência instantânea para a área de transferência.
-![Exportação](docs/screenshots/05-modal-exportacao.png)
+| 04. Critérios e Filtros Estatísticos | 05. Exportação TXT e CSV |
+| :---: | :---: |
+| <img src="docs/screenshots/04-mobile-modal-filtros.png" width="260" alt="Critérios Estatísticos" /> | <img src="docs/screenshots/05-mobile-modal-exportacao.png" width="260" alt="Exportação TXT e CSV" /> |
+| Metodologia matemática detalhada dos 4 filtros oficiais | Exportador com seleção de formato (.txt/.csv) e download direto |
 
 ---
 
